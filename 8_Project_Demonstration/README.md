@@ -1,6 +1,6 @@
 LegalEase - Project Demonstration
 
-Demo Video Link: [ADD YOUR GOOGLE DRIVE LINK HERE AFTER UPLOADING]
+Demo Video Link: [https://drive.google.com/file/d/1xUV-iQzUSJpGeHabbEOWcHDqqzElfbB7/view?usp=sharing]
 
 The demo video covers:
 - Project name and purpose
